@@ -243,105 +243,105 @@ To improve model robustness and privacy, the following defenses are implemented:
 
 ## Dataset Statistics
 
-```markdown
+markdown
 ![Dataset Statistics](screenshots/03_dataset_statistics.png)
-```
+
 
 ---
 
 ## Target Leakage Detection
 
-```markdown
+markdown
 ![Leakage Detection](screenshots/04_target_leakage_detection.png)
-```
+
 
 ---
 
 ## Leakage Safe Pipeline
 
-```markdown
+markdown
 ![Pipeline](screenshots/05_leakage_safe_pipeline.png)
-```
+
 
 ---
 
 ## Model Evaluation
 
-```markdown
+markdown
 ![Evaluation](screenshots/07_model_evaluation.png)
-```
+
 
 ---
 
 ## Feature Importance
 
-```markdown
+markdown
 ![Importance](screenshots/08_feature_importance.png)
-```
+
 
 ---
 
 ## Adversarial Attack
 
-```markdown
+markdown
 ![Attack](screenshots/10_adversarial_attack.png)
-```
+
 
 ---
 
 ## Membership Inference
 
-```markdown
+markdown
 ![Membership](screenshots/11_membership_inference.png)
-```
+
 
 ---
 
 ## Data Poisoning
 
-```markdown
+markdown
 ![Poisoning](screenshots/13_data_poisoning.png)
-```
+
 
 ---
 
 ## Model Extraction
 
-```markdown
+markdown
 ![Extraction](screenshots/14_model_extraction.png)
-```
+
 
 ---
 
 ## Red Team Scorecard
 
-```markdown
+markdown
 ![Scorecard](screenshots/15_red_team_scorecard.png)
-```
+
 
 ---
 
 ## Randomized Smoothing
 
-```markdown
+markdown
 ![Smoothing](screenshots/16_randomized_smoothing.png)
-```
+
 
 ---
 
 ## Differential Privacy
 
-```markdown
+markdown
 ![DP](screenshots/18_privacy_utility_frontier.png)
-```
+
 
 ---
 
 ## Runtime Firewall
 
-```markdown
+markdown
 ![Firewall](screenshots/20_runtime_firewall.png)
-```
+
 
 ---
 
