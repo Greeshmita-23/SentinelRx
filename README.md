@@ -318,13 +318,6 @@ markdown
 
 ---
 
-## Red Team Scorecard
-
-markdown
-![Scorecard](screenshots/15_red_team_scorecard.png)
-
-
----
 
 ## Randomized Smoothing
 
