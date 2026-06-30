@@ -259,24 +259,29 @@ markdown
 
 ## Leakage Safe Pipeline
 
-markdown
 ![Pipeline](screenshots/05_leakage_safe_pipeline.png)
 
+---
+
+## Model Metrics
+
+![Model Metrics 1](screenshots/06_model_metrics-1.png)
+
+![Model Metrics 2](screenshots/06_model_metrics-2.png)
 
 ---
 
 ## Model Evaluation
 
-markdown
-![Evaluation](screenshots/07_model_evaluation.png)
+![Evaluation 1](screenshots/07_model_evaluation-1.png)
 
+![Evaluation 2](screenshots/07_model_evaluation-2.png)
 
 ---
 
 ## Feature Importance
 
-markdown
-![Importance](screenshots/08_feature_importance.png)
+![Feature Importance](screenshots/08_feature_importance.png)
 
 
 ---
