@@ -1,0 +1,13 @@
+{
+  "created": "2026-06-30T13:19:56",
+  "seed": 42,
+  "data": {
+    "healthcareTrain.csv": "8388ca693955dbe5953c055f2953e81e626a6a3a76dfc0e56ef998b5a067e5a8",
+    "healthcareTest.csv": "a3f410de4ae8ac2abdf090492fd21d75ae65177d9b39bbe20ca509c1e04b9911"
+  },
+  "artifact": {
+    "file": "secure_adherence_model.joblib",
+    "sha256": "ebb29988590d037a7617d432ef24b91e5f1aefb008ecbab19ab757a682bb5c49",
+    "hmac_sha256": "05ca0ee1dc481ae78388f1f4f0629f4eecb2957a9f7612a93787a897327d7367"
+  }
+}

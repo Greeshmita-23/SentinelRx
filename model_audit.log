@@ -1,0 +1,6 @@
+2026-06-29 22:19:13,967 | INFO | training_complete victim=CalibratedHGB features=90
+2026-06-29 22:19:13,971 | INFO | eval test_auc=0.7982
+2026-06-29 22:19:13,971 | INFO | security evasion_transfer=0.343 mia_overfit=1.000 backdoor_success=1.000 extraction_fidelity=0.816
+2026-06-30 13:20:29,785 | INFO | training_complete victim=CalibratedHGB features=90
+2026-06-30 13:20:29,788 | INFO | eval test_auc=0.7988
+2026-06-30 13:20:29,788 | INFO | security evasion_transfer=0.360 mia_overfit=1.000 backdoor_success=1.000 extraction_fidelity=0.797

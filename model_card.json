@@ -1,0 +1,30 @@
+{
+  "name": "Medication-Adherence Classifier (antidiabetics)",
+  "intended_use": "Decision-SUPPORT to prioritise outreach to patients at risk of <80% adherence. Not a substitute for clinical judgement.",
+  "data": {
+    "rows": 1378,
+    "features": 90,
+    "removed_for_leakage": [
+      "pdc",
+      "pdc_cat"
+    ]
+  },
+  "performance_test": {
+    "auc": 0.799,
+    "accuracy": 0.709
+  },
+  "known_risks": {
+    "evasion_transfer_flip": 0.36,
+    "membership_inference_auc": 1.0,
+    "backdoor_success_if_poisoned": 1.0,
+    "extraction_fidelity": 0.797
+  },
+  "deployed_mitigations": [
+    "randomized smoothing",
+    "DP-SGD option (eps-bounded)",
+    "confident-learning data sanitization",
+    "Mahalanobis input firewall",
+    "HMAC-signed artifact + audit log"
+  ],
+  "ethical_note": "Predictions must never be used to deny care or coverage; protected attributes warrant fairness review before deployment."
+}
