@@ -379,6 +379,17 @@ Run all cells sequentially.
 
 ---
 
+---
+
+## 🏗️ Interactive Project Architecture
+
+Explore the interactive architecture diagram of SentinelRx, generated using GitDiagram.
+
+🔗 [View Interactive Architecture](https://gitdiagram.com/greeshmita-23/sentinelrx)
+
+The diagram provides a visual overview of the project's structure, major components, application flow, and component relationships.
+
+
 # Future Improvements
 
 * Deep Learning Models
